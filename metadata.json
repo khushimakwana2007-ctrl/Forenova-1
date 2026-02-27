@@ -1,0 +1,7 @@
+{
+  "name": "FORENOVA 1",
+  "description": "A comprehensive forensic science learning and evidence handling simulation platform designed for students and professionals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
